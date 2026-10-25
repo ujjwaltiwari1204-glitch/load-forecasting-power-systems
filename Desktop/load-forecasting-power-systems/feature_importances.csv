@@ -1,0 +1,141 @@
+Horizon,Model,Feature,Importance
+1,Random Forest,history_lag_24,0.00012594840427532423
+1,Random Forest,history_lag_23,0.0002995761317061775
+1,Random Forest,history_lag_22,0.00563691745018782
+1,Random Forest,history_lag_21,0.0024096528612755127
+1,Random Forest,history_lag_20,0.0014003115649392002
+1,Random Forest,history_lag_19,0.0005745164620207961
+1,Random Forest,history_lag_18,0.00035914138160167094
+1,Random Forest,history_lag_17,0.00023753835635313607
+1,Random Forest,history_lag_16,0.00017234933521654145
+1,Random Forest,history_lag_15,0.00017591918702565185
+1,Random Forest,history_lag_14,0.0002019200291096458
+1,Random Forest,history_lag_13,0.00020811543141819713
+1,Random Forest,history_lag_12,0.0002580225484200914
+1,Random Forest,history_lag_11,0.00032699229413646113
+1,Random Forest,history_lag_10,0.0008050145763415825
+1,Random Forest,history_lag_9,0.0006697764709605394
+1,Random Forest,history_lag_8,0.0005686466011637526
+1,Random Forest,history_lag_7,0.0003870183831824504
+1,Random Forest,history_lag_6,0.00041104738573645287
+1,Random Forest,history_lag_5,0.000584592859076925
+1,Random Forest,history_lag_4,0.0005947964440260411
+1,Random Forest,history_lag_3,0.004041026806231683
+1,Random Forest,history_lag_2,0.00651807381780038
+1,Random Forest,history_lag_1,0.46566436512267045
+1,Random Forest,context_hour,0.01947173696292283
+1,Random Forest,context_dayofweek,0.0008523921766316992
+1,Random Forest,context_month,5.3022441614891575e-05
+1,Random Forest,context_quarter,1.7362976319631e-05
+1,Random Forest,context_dayofyear,0.0003125082967497887
+1,Random Forest,context_lag_1,0.48503196170018037
+1,Random Forest,context_lag_24,0.00012840799373005764
+1,Random Forest,context_lag_48,0.00017843650892296976
+1,Random Forest,context_lag_168,0.00023086607548826246
+1,Random Forest,context_rolling_mean_3,0.00022882567788533867
+1,Random Forest,context_rolling_mean_24,0.0008631992846776793
+1,XGBoost,history_lag_24,0.0006682276143692434
+1,XGBoost,history_lag_23,0.003286526305601001
+1,XGBoost,history_lag_22,0.01217513345181942
+1,XGBoost,history_lag_21,0.010635584592819214
+1,XGBoost,history_lag_20,0.002672392874956131
+1,XGBoost,history_lag_19,0.0010820290772244334
+1,XGBoost,history_lag_18,0.0006690537557005882
+1,XGBoost,history_lag_17,0.000683014455717057
+1,XGBoost,history_lag_16,0.0003558544267434627
+1,XGBoost,history_lag_15,0.0004041867796331644
+1,XGBoost,history_lag_14,0.0005943376454524696
+1,XGBoost,history_lag_13,0.0003851513029076159
+1,XGBoost,history_lag_12,0.0004990369779989123
+1,XGBoost,history_lag_11,0.001214220654219389
+1,XGBoost,history_lag_10,0.0026546919252723455
+1,XGBoost,history_lag_9,0.0010927915573120117
+1,XGBoost,history_lag_8,0.0007775813573971391
+1,XGBoost,history_lag_7,0.0007231796626001596
+1,XGBoost,history_lag_6,0.0006927443901076913
+1,XGBoost,history_lag_5,0.0006514050764963031
+1,XGBoost,history_lag_4,0.0018812500638887286
+1,XGBoost,history_lag_3,0.013546871021389961
+1,XGBoost,history_lag_2,0.003317589173093438
+1,XGBoost,history_lag_1,0.9095399975776672
+1,XGBoost,context_hour,0.020186422392725945
+1,XGBoost,context_dayofweek,0.005427089519798756
+1,XGBoost,context_month,0.0006276846979744732
+1,XGBoost,context_quarter,0.0
+1,XGBoost,context_dayofyear,0.0011096596717834473
+1,XGBoost,context_lag_1,0.0
+1,XGBoost,context_lag_24,0.0
+1,XGBoost,context_lag_48,0.00020299617608543485
+1,XGBoost,context_lag_168,0.0009719007066451013
+1,XGBoost,context_rolling_mean_3,0.00033758566132746637
+1,XGBoost,context_rolling_mean_24,0.0009339707903563976
+24,Random Forest,history_target_lag_47,0.001959169899581788
+24,Random Forest,history_target_lag_46,0.0011787166141696483
+24,Random Forest,history_target_lag_45,0.0009984550644507432
+24,Random Forest,history_target_lag_44,0.0010630345143300703
+24,Random Forest,history_target_lag_43,0.0011334287463349488
+24,Random Forest,history_target_lag_42,0.0011749565862863595
+24,Random Forest,history_target_lag_41,0.0012294205672694501
+24,Random Forest,history_target_lag_40,0.0010733703224069836
+24,Random Forest,history_target_lag_39,0.0010182851489473077
+24,Random Forest,history_target_lag_38,0.0009736177209590686
+24,Random Forest,history_target_lag_37,0.0011509121470049733
+24,Random Forest,history_target_lag_36,0.0013589143238214875
+24,Random Forest,history_target_lag_35,0.0013272082621290282
+24,Random Forest,history_target_lag_34,0.001347809357419146
+24,Random Forest,history_target_lag_33,0.0013397595800124194
+24,Random Forest,history_target_lag_32,0.001396915243246696
+24,Random Forest,history_target_lag_31,0.0012557494248625985
+24,Random Forest,history_target_lag_30,0.0010946922597762164
+24,Random Forest,history_target_lag_29,0.0010637266124009638
+24,Random Forest,history_target_lag_28,0.0010319523634434548
+24,Random Forest,history_target_lag_27,0.0010823410573258907
+24,Random Forest,history_target_lag_26,0.001329425844723518
+24,Random Forest,history_target_lag_25,0.001582840557823111
+24,Random Forest,history_target_lag_24,0.3594865094429304
+24,Random Forest,context_hour,0.010632357758893655
+24,Random Forest,context_dayofweek,0.06759204772436371
+24,Random Forest,context_month,0.0006149347505316032
+24,Random Forest,context_quarter,0.00011354357622587854
+24,Random Forest,context_dayofyear,0.011319469097414585
+24,Random Forest,context_lag_24,0.3865817842881669
+24,Random Forest,context_lag_48,0.0034843740924885144
+24,Random Forest,context_lag_72,0.0036714979396760316
+24,Random Forest,context_lag_168,0.11941329015425498
+24,Random Forest,context_rolling_mean_3,0.004963929118347977
+24,Random Forest,context_rolling_mean_24,0.003961559837979877
+24,XGBoost,history_target_lag_47,0.00316131510771811
+24,XGBoost,history_target_lag_46,0.003096991218626499
+24,XGBoost,history_target_lag_45,0.004558530170470476
+24,XGBoost,history_target_lag_44,0.0035020364448428154
+24,XGBoost,history_target_lag_43,0.003529364475980401
+24,XGBoost,history_target_lag_42,0.0045151542872190475
+24,XGBoost,history_target_lag_41,0.003951048944145441
+24,XGBoost,history_target_lag_40,0.002720201388001442
+24,XGBoost,history_target_lag_39,0.0024868787731975317
+24,XGBoost,history_target_lag_38,0.0030564020853489637
+24,XGBoost,history_target_lag_37,0.003532134462147951
+24,XGBoost,history_target_lag_36,0.006003035232424736
+24,XGBoost,history_target_lag_35,0.0043951054103672504
+24,XGBoost,history_target_lag_34,0.003982756286859512
+24,XGBoost,history_target_lag_33,0.004256880842149258
+24,XGBoost,history_target_lag_32,0.004556209780275822
+24,XGBoost,history_target_lag_31,0.0030156252905726433
+24,XGBoost,history_target_lag_30,0.0037493626587092876
+24,XGBoost,history_target_lag_29,0.004297337029129267
+24,XGBoost,history_target_lag_28,0.0031514859292656183
+24,XGBoost,history_target_lag_27,0.004998020362108946
+24,XGBoost,history_target_lag_26,0.008480682969093323
+24,XGBoost,history_target_lag_25,0.011922740377485752
+24,XGBoost,history_target_lag_24,0.6273718476295471
+24,XGBoost,context_hour,0.019465025514364243
+24,XGBoost,context_dayofweek,0.05128078907728195
+24,XGBoost,context_month,0.004442983772605658
+24,XGBoost,context_quarter,0.0
+24,XGBoost,context_dayofyear,0.0066602798178792
+24,XGBoost,context_lag_24,0.0
+24,XGBoost,context_lag_48,0.0030012414790689945
+24,XGBoost,context_lag_72,0.005835844669491053
+24,XGBoost,context_lag_168,0.16871464252471924
+24,XGBoost,context_rolling_mean_3,0.007778665982186794
+24,XGBoost,context_rolling_mean_24,0.004529373254626989
